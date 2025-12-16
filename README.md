@@ -1,5 +1,7 @@
+<a name="topo"></a>
+
 <div align="right">
-  <a href="#english-version">
+  <a href="#ingles">
     <img src="https://img.shields.io/badge/Switch%20to-English-blue?style=for-the-badge&logo=usa" alt="Switch to English"/>
   </a>
 </div>
@@ -65,13 +67,15 @@ Estou aberto a trocar ideias sobre tecnologia e oportunidades.
 <hr />
 <br />
 
-# 🗺️ English Version
+<a name="ingles"></a>
 
 <div align="right">
-  <a href="#finding-my-way-through-code">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar%20para-Português-green?style=for-the-badge&logo=brazil" alt="Voltar para Português"/>
   </a>
 </div>
+
+# 🗺️ English Version
 
 ### Hello! I'm Carlos Andemberg 👋
 
