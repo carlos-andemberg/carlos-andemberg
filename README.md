@@ -1,10 +1,8 @@
 <div align="right">
-  <a href="#-english-version">
+  <a href="#english-version">
     <img src="https://img.shields.io/badge/Switch%20to-English-blue?style=for-the-badge&logo=usa" alt="Switch to English"/>
   </a>
 </div>
-
-<div id="portuguese">
 
 # 🗺️ Finding My Way Through Code
 
@@ -63,21 +61,17 @@ Estou aberto a trocar ideias sobre tecnologia e oportunidades.
   </a>
 </div>
 
-</div>
-
 <br />
 <hr />
 <br />
 
-<div id="english">
+# 🗺️ English Version
 
 <div align="right">
-  <a href="#-finding-my-way-through-code">
+  <a href="#finding-my-way-through-code">
     <img src="https://img.shields.io/badge/Voltar%20para-Português-green?style=for-the-badge&logo=brazil" alt="Voltar para Português"/>
   </a>
 </div>
-
-# 🗺️ English Version
 
 ### Hello! I'm Carlos Andemberg 👋
 
@@ -132,6 +126,4 @@ I'm open to exchanging ideas about technology and opportunities.
   <a href="https://www.linkedin.com/in/carlos-andemberg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-
 </div>
