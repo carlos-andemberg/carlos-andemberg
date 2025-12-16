@@ -1,5 +1,11 @@
 # 🗺️ Finding My Way Through Code
 
+<div align="right">
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge&logo=usa" />
+  </a>
+</div>
+
 ### Olá! Eu sou Carlos Andemberg 👋
 
 > *"O código é o mapa, e o aprendizado é o caminho."*
