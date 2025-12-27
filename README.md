@@ -46,13 +46,6 @@ Tecnologias que utilizo nos meus estudos e projetos:
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode,linux,netlify&perline=8" />
 </div>
 
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos-andemberg&show_icons=true&theme=radical&hide_border=true&locale=pt-br" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-andemberg&layout=compact&theme=radical&hide_border=true&locale=pt-br" height="160em" />
-</div>
-
 ### 📫 Vamos conversar?
 
 Estou aberto a trocar ideias sobre tecnologia e oportunidades.
@@ -113,13 +106,6 @@ Technologies I use in my studies and projects:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode,linux,netlify&perline=8" />
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos-andemberg&show_icons=true&theme=radical&hide_border=true&locale=en" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-andemberg&layout=compact&theme=radical&hide_border=true&locale=en" height="160em" />
 </div>
 
 ### 📫 Let's Connect?
